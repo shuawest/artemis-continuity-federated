@@ -34,7 +34,7 @@ limitations under the License.
     <slf4j.version>1.7.22.redhat-2</slf4j.version>
 
     <activemq-surefire-argline>-Djava.util.logging.manager=org.jboss.logmanager.LogManager -Dlogging.configuration="file:${project.basedir}/src/test/resources/logging.properties"</activemq-surefire-argline>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito.version>2.25.0</mockito.version>
     <hamcrest.version>2.1</hamcrest.version>
 
