@@ -29,7 +29,7 @@ limitations under the License.
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
 
-    <artemis.version>2.12.0-SNAPSHOT</artemis.version>
+    <artemis.version>2.24.0</artemis.version>
     <johnzon.version>0.9.5.redhat-1</johnzon.version>
     <slf4j.version>1.7.22.redhat-2</slf4j.version>
 
